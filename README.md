@@ -31,6 +31,8 @@ Here are some ideas to get you started:
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
+
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=truonggiang2512&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
