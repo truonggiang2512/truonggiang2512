@@ -31,10 +31,18 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
- ### Languages  
-![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
-### Leetcode
-![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
+<table>
+  <tr>
+    <td>
+      <h3>Languages</h3>
+      <img src="https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg" alt="Languages">
+    </td>
+    <td>
+      <h3>Leetcode</h3>
+      <img src="https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary><h2>Contact Me</h2></summary>
