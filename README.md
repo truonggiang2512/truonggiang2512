@@ -48,9 +48,11 @@ Here are some ideas to get you started:
 </details>
 
 ### Leetcode
-<div align="center">
+ <div align="center">
+
   ![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
-</div>
+
+  </div>
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/truonggiang2512/truonggiang2512/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
