@@ -21,9 +21,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Portfolio-543DE0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" style="height:22px;">
   </a>
 </div>
-<div align="center" width="full">
- <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
-</div>
+
 
 <h3>Things I code with</h3>
 <p>
@@ -42,17 +40,31 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+<div style="flex">
 
+<div>
+   
 ![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
-
-
 
 ### Leetcode
  <div align="left">
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
 
-  </div>
+</div>
+</div>
+   
+ <div align="center" width="full">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
+
+</div>
+
+
+
+
+
+
 
 <details>
   <summary><h2> <img align="center" src="https://github.com/truonggiang2512/truonggiang2512/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
