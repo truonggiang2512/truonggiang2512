@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 </div>
 
 
+ <div align="center" width="full">
+ <img alt="GIF" src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" />
+</div>
+
+
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -40,51 +46,16 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
+   
+![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
 
+### Leetcode
+ <div align="left">
 
+  ![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
 
-
-
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; padding: 16px; background-color: #f9fafb; border-radius: 8px;">
-  <!-- Left Column -->
-  <div style="flex: 1; min-width: 280px; margin: 8px;">
-    <!-- Programming Languages Chart -->
-    <div style="margin-bottom: 16px;">
-      <img 
-        src="https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg" 
-        alt="Languages" 
-        style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-      />
-    </div>
-   <div>
-    <div>
-      <h3 style="font-size: 18px; font-weight: 600; color: #374151; margin-bottom: 8px;">Leetcode</h3>
-      <div>
-        <img 
-          src="https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null" 
-          alt="LeetCode Stats" 
-          style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-        />
-      </div>
-    </div>
-  </div>
-
-  <!-- Right Column -->
-  <div style="flex: 1; min-width: 280px; display: flex; justify-content: center; align-items: center; margin: 8px;">
-    <img 
-      src="https://media4.giphy.com/media/11KzOet1ElBDz2/giphy.gif?cid=6c09b952ufa3xxbbm0mpuadm2zaik3wjp4m9luz2ly0lyz8d&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" 
-      alt="GIF" 
-      style="width: 100%; max-width: 400px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"
-    />
-  </div>
 </div>
-
-
-
-
-
-
+   
 
 
 <details>
