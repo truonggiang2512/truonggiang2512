@@ -33,22 +33,12 @@
 
 <table>
   <tr>
-    <td>
-      <h3>Languages</h3>
-      <img src="https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg" alt="Languages">
+    <td style="width: 50%; text-align: center;">
+      <img src="https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg" alt="Languages" style="width: 100%;">
     </td>
-    <td>
-      <h3>Leetcode</h3>
-      <img src="https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null" alt="LeetCode Stats">
+    <td style="width: 50%; text-align: center;">
+      <img src="https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null" alt="LeetCode Stats" style="width: 100%;">
     </td>
   </tr>
 </table>
 
-<details>
-  <summary><h2>Contact Me</h2></summary>
-  <p>
-    <i>You can reach out to me via</i>
-    <a href="mailto:hntgiangwork@gmail.com">
-    </a>
-  </p>
-</details>
