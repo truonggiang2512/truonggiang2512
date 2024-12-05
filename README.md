@@ -1,19 +1,4 @@
 ## Hi there 👋
-
-<!--
-**truonggiang2512/truonggiang2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p>Welcome to my page! </br> I'm Truong Giang, Fullstack developer from <img src="https://github.com/truonggiang2512/truonggiang2512/blob/main/assets/vietnam.png" width="13"/> <b>Ho Chi Minh, Viet Nam</b>
 <div>
 <img src="https://komarev.com/ghpvc/?username=truonggiang2512&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
@@ -46,24 +31,16 @@ Here are some ideas to get you started:
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-   
+ ### Languages  
 ![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
-
 ### Leetcode
- <div align="left">
-
-  ![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
-
-</div>
-   
-
+![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
 
 <details>
-  <summary><h2> <img align="center" src="https://github.com/truonggiang2512/truonggiang2512/blob/main/icons/Contact.gif" width="37"/> Contact Me</h2></summary>
+  <summary><h2>Contact Me</h2></summary>
   <p>
     <i>You can reach out to me via</i>
-    <a href="mailto:truonggiang2512@gmail.com">
-      <img align="center" src="https://github.com/truonggiang2512/truonggiang2512/blob/main/icons/Gmail.gif" width="100"/>
+    <a href="mailto:hntgiangwork@gmail.com">
     </a>
   </p>
 </details>
