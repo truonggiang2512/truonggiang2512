@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 
 
 ### Leetcode
- <div align="center">
+ <div align="left">
 
   ![LeetCode Stats](https://leetcode.card.workers.dev/truonggiang93?theme=auto&font=baloo&extension=null)
 
