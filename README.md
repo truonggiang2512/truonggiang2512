@@ -33,6 +33,9 @@ Here are some ideas to get you started:
 </p>
 ![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
 
+
+![](https://github.com/truonggiang2512/truonggiang2512/blob/main/generated/languages.svg)
+
 <h2 align="center">
   <img src="https://komarev.com/ghpvc/?username=truonggiang2512&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
